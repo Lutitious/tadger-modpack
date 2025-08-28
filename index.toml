@@ -1028,9 +1028,8 @@ hash = "6a886d3986e440bf6bbd0e29cfe9a093c1bcbab6ee71784dc0d9035df88e06b5"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "62ca78f72f0c5de86e65ca7dd5c356c1f6ae406cee10361d9c26db45a244f195"
-metafile = true
+file = "mods/entityculling-fabric-1.8.2-mc1.21.6.jar"
+hash = "568125b2f14d7a8cab137e55c4c9ea409f88b8eac29f1c5edc2c3b7f41dc27e6"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
