@@ -1,0 +1,31 @@
++--------------------------+-------+---------+-----------+
+| Material List for schematic 'Beacon' (1 of 1 regions)  |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
+| White Concrete           |    40 |      40 |         0 |
+| Redstone Dust            |    24 |      24 |         0 |
+| Observer                 |    18 |      18 |         0 |
+| Piston                   |    17 |      17 |         0 |
+| Block of Gold            |     9 |       9 |         0 |
+| Glass                    |     6 |       6 |         0 |
+| Stone Brick Wall         |     6 |       6 |         0 |
+| Blue Stained Glass       |     5 |       5 |         0 |
+| Light Blue Stained Glass |     5 |       5 |         0 |
+| Lime Stained Glass       |     5 |       5 |         0 |
+| Magenta Stained Glass    |     5 |       5 |         0 |
+| Red Stained Glass        |     5 |       5 |         0 |
+| Redstone Repeater        |     5 |       5 |         0 |
+| Sticky Piston            |     5 |       5 |         0 |
+| Yellow Stained Glass     |     5 |       5 |         0 |
+| Redstone Comparator      |     4 |       4 |         0 |
+| Note Block               |     3 |       3 |         0 |
+| Waxed Copper Bulb        |     3 |       3 |         0 |
+| Target                   |     2 |       2 |         0 |
+| Beacon                   |     1 |       1 |         0 |
+| Iron Trapdoor            |     1 |       1 |         0 |
+| Lever                    |     1 |       1 |         0 |
+| Redstone Torch           |     1 |       1 |         0 |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
