@@ -1,4 +1,4 @@
-name = "Tadger"
+name = "Alba gu bràth"
 author = "Lutitious"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "06e8a9426f06f3407389c35a659fdd446837406d04a08650938667dccd5318ce"
+hash = "3ea9c0270e996ba4db1cd73b830a81dcef1031ca5c1b501d601c57eac08c510e"
 
 [versions]
 fabric = "0.17.2"

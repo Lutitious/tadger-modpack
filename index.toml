@@ -1161,11 +1161,6 @@ hash = "86fdb4b5144dd04fb3b21746e30581c2cf968c79649cd7d202e995f2c6d0d586"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-library.pw.toml"
-hash = "5bc1252ec736345c379ea5cbc7873fa5f384bef4bd94ad97d37dcc896101bbe4"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "400d19f4781b995666c94e5a76450780875a5071e9b5e2c6c02d9278d97b06db"
 metafile = true
@@ -1238,3 +1233,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "3f9b5bb3279c9b4e6c2602f6ad7d0a3f4118f27f8205f33bd8d80ff64429ddb5"
+
+[[files]]
+file = "unsup.ini"
+hash = "7728ef596ea34e98ef92c49f9923f93df39b6af39a2a0b30f62397a1f91e1dbf"
