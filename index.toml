@@ -69,6 +69,10 @@ file = "config/e4mc/e4mc.toml"
 hash = "3c357537aa124bf8770348f06040379970589a9d28f312b9f52b1b54ac94b84d"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "d0fc40ba86b8af64f5c27c8c5b3284a5021cd97131e65ca645d64f2421529656"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "7e61267913bb756d11757993357db163810b30966cddd787a15cd9ae48a7b720"
 
@@ -1019,11 +1023,6 @@ hash = "42ca08d06582f0b6ef34bd0d04cb3c9a5ecb76ba3bb6e07e4e3a156926d02cb1"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "90633f877db2b3dac3f185a85e0028fa9a7d1873d5fb13e57cfc0604a8cea99d"
-metafile = true
-
-[[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "6a886d3986e440bf6bbd0e29cfe9a093c1bcbab6ee71784dc0d9035df88e06b5"
 metafile = true
@@ -1234,7 +1233,3 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "3f9b5bb3279c9b4e6c2602f6ad7d0a3f4118f27f8205f33bd8d80ff64429ddb5"
-
-[[files]]
-file = "unsup.ini"
-hash = "7728ef596ea34e98ef92c49f9923f93df39b6af39a2a0b30f62397a1f91e1dbf"
