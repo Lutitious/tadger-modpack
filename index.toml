@@ -69,10 +69,6 @@ file = "config/e4mc/e4mc.toml"
 hash = "3c357537aa124bf8770348f06040379970589a9d28f312b9f52b1b54ac94b84d"
 
 [[files]]
-file = "config/entity_model_features.json"
-hash = "d0fc40ba86b8af64f5c27c8c5b3284a5021cd97131e65ca645d64f2421529656"
-
-[[files]]
 file = "config/entity_texture_features.json"
 hash = "7e61267913bb756d11757993357db163810b30966cddd787a15cd9ae48a7b720"
 
